@@ -1,6 +1,8 @@
 # algorithm-for-servo-motors-in-walking-robot-s-legs
 # Description 
-An algorithm for servo motors in walking robot’s legs is written. All parameters are assumptions; to be decided later. 
+An algorithm for servo motors in walking robot’s legs is written. 
+
+## The Algorithm
 1.	All motors are off; angles are all 0 degrees.
 2.	servo1 (left hip) is set to 90 degrees (neutral) and shift all weight to the left leg
 3.	servo3 (left knee) is set to 90 degrees (straight).
